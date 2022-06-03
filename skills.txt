@@ -1,0 +1,10 @@
+Linux terminal commands (GitBash) 
+Git
+Git branch merge
+Вводное занятие по JS
+Занятие по JS (||, &&; Циклы for while)
+Занятие по JS (функции, стрелочные функции, Chai Js)
+Клиент-серверная архитектура + Postman
+Postman (окружение, скрипты)
+Тестирование форм
+SQL
